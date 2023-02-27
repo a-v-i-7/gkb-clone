@@ -19,6 +19,9 @@
 }
 
 /* TYPOGRAPHY */
+html {
+  font-size: 66.6%;
+}
 p {
   font-size: 2rem;
   color: #111;
